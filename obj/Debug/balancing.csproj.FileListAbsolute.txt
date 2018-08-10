@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\balancing\bin\Debug\balancing.exe.config
+C:\Users\Asus\source\repos\balancing\bin\Debug\balancing.exe
+C:\Users\Asus\source\repos\balancing\bin\Debug\balancing.pdb
+C:\Users\Asus\source\repos\balancing\obj\Debug\balancing.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\balancing\obj\Debug\balancing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\balancing\obj\Debug\balancing.exe
+C:\Users\Asus\source\repos\balancing\obj\Debug\balancing.pdb
